@@ -1,0 +1,43 @@
+body{
+    background-color: darkslateblue;
+}
+
+.container{
+    text-align: center;
+    background-color: midnightblue;
+    max-width: 300px;
+    padding: 10px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+
+
+.fan{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+
+.container h1{
+    color: white;
+}
+
+.container p{
+    color: slateblue;
+}
+
+.container svg{
+    color: aquamarine;
+}
+
+.dan{
+    width: 30px;
+    height: 30px;
+    margin-top: 50px;
+}
+.van{
+    margin-left: 110px;
+}
+
